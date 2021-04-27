@@ -43,3 +43,5 @@ class Stack(object):
 if __name__ == "__main__":
     stack = Stack()
     print("스택이 비었나요? {0}".format(stack.isEmpty()))
+
+    ## 스택은 깊이 우선 탐색(DFS)에서 유용하게 사용됨!!
