@@ -40,4 +40,3 @@ class Queue(object):
     def __repr__(self):
         return repr(self.items)
 
-    ## 스택은 너비 우선 탐색(BFS)에서 유용하게 사용됨!!
