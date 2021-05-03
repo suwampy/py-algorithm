@@ -23,7 +23,8 @@ def heap():
     print(list1) # [4,6,8]
 
     # heapq.heappushpop(heap, item)은 새 항목을 힙에 추가한 후 가장 작은 항목을 제거하고 반환
-
+    # heapq.heapreplace(heap,item)은 힙의 가장 작은 항목을 제거하고 반환한 후 새 항목을 추가
+    # heapq.merge(*iterables)는 여러 개의 정렬된 반복 가능한 객체를 병합하여 하나의 정렬된 결과의 이터레이터를 반환
 ## 최대 힙 구현
 class Heapify(object):
     def __init__(self,data=None):
