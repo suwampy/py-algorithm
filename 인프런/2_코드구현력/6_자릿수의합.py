@@ -1,5 +1,6 @@
 import sys
 
+# 정수로 처리
 def 자릿수의합():
     n=int(input())
     a=list(map(int, input().split()))
@@ -19,7 +20,7 @@ def 자릿수의합():
     print(res)
 
 
-
+# string 처리
 # def 자릿수의합():
 #     n = int(sys.stdin.readline())
 #     a = list(map(int, input().split()))
