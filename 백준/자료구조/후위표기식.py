@@ -36,7 +36,9 @@ def 후위표기식():
                res.append(b/a)
        else:
            ## 문자열일떄
+           print(ord(x)-ord('A'))
            res.append(num[ord(x)-ord('A')])
+           print(res)
    print('%.2f' % (res[0]))
 
 
