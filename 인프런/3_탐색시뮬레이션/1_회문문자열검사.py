@@ -1,5 +1,6 @@
 import sys
 
+# sol1
 def 회문문자열검사():
     print()
     n = int(sys.stdin.readline())
@@ -17,8 +18,17 @@ def 회문문자열검사():
         else:
             print("#%d YES" %(i+1))
 
-
-
+# sol2
+def 회문문자열검사2():
+    print()
+    n = int(sys.stdin.readline())
+    for i in range(0,n):
+        s = input()
+        s = s.upper()
+        if s==s[::-1]:
+            print("#%d YES" %(i+1))
+        else:
+            print("#%d NO" %(i+1))
 
 if __name__ == "__main__":
     회문문자열검사()
