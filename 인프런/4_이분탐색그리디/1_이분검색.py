@@ -19,5 +19,6 @@ def 이분검색():
         else:
             lt = mid+1
 
+
 if __name__ =="__main__":
     이분검색()
