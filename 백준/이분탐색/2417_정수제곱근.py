@@ -6,6 +6,7 @@ def 정수제곱근():
     lt = 1
     rt = n
     res = 0
+
     while lt<=rt :
         mid = (lt+rt)//2
         if mid*mid <= n:
