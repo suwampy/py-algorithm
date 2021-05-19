@@ -1,3 +1,65 @@
+## 🚗진도🚗
+
+- 자료구조
+
+| 주제             | 개념                                                         |
+| ---------------- | ------------------------------------------------------------ |
+| 숫자             | [피보나치 수열](https://github.com/soowampy/py-algorithm/blob/master/1%EC%9E%A5_%EC%88%AB%EC%9E%90/8_find_fibonacci_seq.py) |
+| 숫자             | [소수 찾기](https://github.com/soowampy/py-algorithm/blob/master/1%EC%9E%A5_%EC%88%AB%EC%9E%90/10_finding_prime.py) |
+| 내장 시퀀스 타입 | [문자열](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/2_str.py) |
+| 내장 시퀀스 타입 | [튜플](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/3_tuple.py) |
+| 내장 시퀀스 타입 | [리스트](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/4_list.py) |
+| 컬렉션 자료구조  | [set](https://github.com/soowampy/py-algorithm/blob/master/3%EC%9E%A5_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/1_set.py) |
+| 추상 데이터 타입 | [스택](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/1_stack.py) |
+| 추상 데이터 타입 | [큐](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/2_queue.py) |
+| 추상 데이터 타입 | [덱](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/3_dequeue.py) |
+| 추상 데이터 타입 | [우선순위 큐와 힙](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/4_priority_queue.py) |
+| 추상 데이터 타입 | [링크드리스트](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/5_linked_list.py) |
+| 점근적 분석      | [복잡도](https://github.com/soowampy/py-algorithm/blob/master/8%EC%9E%A5_%EC%A0%90%EA%B7%BC%EC%A0%81%EB%B6%84%EC%84%9D/1_complexity.py) |
+| 정렬             | [버블정렬,선택정렬](https://github.com/soowampy/py-algorithm/blob/master/9%EC%9E%A5_%EC%A0%95%EB%A0%AC/1_2ndorder.py) |
+
+- 백준 풀이
+
+  - 문자열
+
+    | 문제 링크                                          | 난이도                                                       | 풀이                                                         |
+    | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | [경고](https://www.acmicpc.net/problem/3029)       | [![img](https://camo.githubusercontent.com/6478d7b34aa85295df084cc743a4b86bb959ed4de57e116f5bb013b38af30b86/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f332e737667)](https://camo.githubusercontent.com/6478d7b34aa85295df084cc743a4b86bb959ed4de57e116f5bb013b38af30b86/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f332e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/%EA%B2%BD%EA%B3%A0.py) |
+    | [숫자의 합](https://www.acmicpc.net/problem/11720) | [![img](https://camo.githubusercontent.com/5ce717d916acff7b6a5e163f173ba1c8873f10350c38672eec4f1d628c600990/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f342e737667)](https://camo.githubusercontent.com/5ce717d916acff7b6a5e163f173ba1c8873f10350c38672eec4f1d628c600990/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f342e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720_%EB%AC%B8%EC%9E%90%EC%97%B4.py) |
+    | [밀비급일](https://www.acmicpc.net/problem/11365)  | [![img](https://camo.githubusercontent.com/5ce717d916acff7b6a5e163f173ba1c8873f10350c38672eec4f1d628c600990/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f342e737667)](https://camo.githubusercontent.com/5ce717d916acff7b6a5e163f173ba1c8873f10350c38672eec4f1d628c600990/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f342e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365_%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC.py) |
+
+  - 이분탐색
+
+    | 문제 링크                                           | 난이도                                                       | 풀이                                                         |
+    | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | [수들의 합](https://www.acmicpc.net/problem/1789)   | [ ![img](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667)](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1789_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py) |
+    | [정수 제곱근](https://www.acmicpc.net/problem/2417) | [![img](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667)](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2417_%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC.py) |
+
+  - 자료구조
+
+    | 문제링크                                                     | 난이도                                                       | 풀이                                                         |
+    | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | [요세푸스 문제](https://www.acmicpc.net/problem/1158)        | [![img](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667)](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C.py) |
+    | [스택](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D.py) | [![img](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667)](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D.py) |
+    | [괄호](https://www.acmicpc.net/problem/9012)                 | [![img](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667)](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EA%B4%84%ED%98%B8.py) |
+    | [큐2](https://www.acmicpc.net/problem/18258)                 | [![img](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667)](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90.py) |
+    | [덱](https://github.com/tony9402/baekjoon/tree/main/data_structure) | [ ![img](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667)](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%8D%B1.py) |
+    | [스택 수열](https://www.acmicpc.net/problem/1874)            | [![img](https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667)](https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.py) |
+    | [카드2](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%B9%B4%EB%93%9C.py) | [![img](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667)](https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%B9%B4%EB%93%9C.py) |
+    | [후위 표기식2](https://www.acmicpc.net/problem/1935)         | [![img](https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667)](https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D.py) |
+
+  - 그리디
+
+    | 문제링크                                          | 난이도                                                       | 풀이                                                         |
+    | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | [거스름돈](https://www.acmicpc.net/problem/14916) | [![img](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667)](https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667) | [풀이](https://github.com/soowampy/py-algorithm/blob/master/%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95/14916_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py) |
+
+
+
+
+
+
+
 ## 백준
 https://github.com/tony9402/baekjoon
 
