@@ -15,20 +15,44 @@
 | 추상 데이터 타입 | [링크드리스트](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/5_linked_list.py) |
 | 점근적 분석      | [복잡도](https://github.com/soowampy/py-algorithm/blob/master/8%EC%9E%A5_%EC%A0%90%EA%B7%BC%EC%A0%81%EB%B6%84%EC%84%9D/1_complexity.py) |
 | 정렬             | [버블정렬,선택정렬](https://github.com/soowampy/py-algorithm/blob/master/9%EC%9E%A5_%EC%A0%95%EB%A0%AC/1_2ndorder.py) |
+| 그래프           | [그래프](https://github.com/suwampy/py-algorithm/blob/master/12%EC%9E%A5_%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B7%B8%EB%9E%98%ED%94%84.md) |
+| 이진트리         | [이진트리](https://github.com/suwampy/py-algorithm/blob/master/13%EC%9E%A5_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.md) |
 
 
 
 ## 매일매일풀기~챌린지 
 
-| 날짜       | 푼거 |
-| ---------- | ---- |
-| 2021-07-12 |      |
+| 날짜       | 주제      | 푼거                                                         |
+| ---------- | --------- | ------------------------------------------------------------ |
+| 2021-07-15 | DFS<br /> | [합이 같은 부분집합](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/4_%ED%95%A9%EC%9D%B4%EA%B0%99%EC%9D%80%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)<br />[바둑이승차](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/5_%EB%B0%94%EB%91%91%EC%9D%B4%EC%8A%B9%EC%B0%A8.py)<br /> |
 
 
 
 
 
-## 풀면조아
+## 참고
+
+[완탐](https://blog.naver.com/kks227/220769870195)
+
+[DP](https://blog.naver.com/kks227/220777103650)
+
+[큐](https://blog.naver.com/kks227/220781851401)
+
+[스택](https://blog.naver.com/kks227/220781557098)
+
+[DFS](https://blog.naver.com/kks227/220785731077)
+
+[BFS](https://blog.naver.com/kks227/220785747864)
+
+[그리디](https://blog.naver.com/kks227/220775134486)
+
+
+
+백준문제집
+
+https://github.com/tony9402/baekjoon
+
+
 
 완전탐색 & 백트래킹 - 5
 
