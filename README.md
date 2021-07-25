@@ -25,8 +25,8 @@
 | 날짜       | 주제      | 푼거                                                         |
 | ---------- | --------- | ------------------------------------------------------------ |
 | 2021-07-15 | DFS<br /> | [합이 같은 부분집합](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/4_%ED%95%A9%EC%9D%B4%EA%B0%99%EC%9D%80%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)<br />[바둑이승차](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/5_%EB%B0%94%EB%91%91%EC%9D%B4%EC%8A%B9%EC%B0%A8.py)<br /> |
-
-
+| 2021-07-20 | DFS       | [중복순열구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/6_%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br />[동전교환](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/7_%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98.py) |
+| 2021-07-21 | DFS       | [순열구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/8_%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br />[조합구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/10_%EC%A1%B0%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
 
 
 
