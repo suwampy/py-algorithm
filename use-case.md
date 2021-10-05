@@ -309,3 +309,78 @@ print(bisect_left(a,x))
 print(bisect_right(a,x))
 ```
 
+    if something in arr:
+    # something이 배열이 안에 있는가?
+    
+    if something not in arr:
+    # something이 배열안에 없는가?
+    
+    sth = [(idx, i) for idx, i in enumerate arr]
+    # 증가하는 인덱스를 같이 넣은 튜플을 원소로 하는 배열생성
+    # 예를 들어 arr=[5,6,8,10] 이면
+    # [(0, 5), (1, 6), (2, 8), (3, 10)] 형태의 배열이 만들어짐
+    
+    sth = max(arr, key=lambda x: x[0])[0]
+    # 2차원 배열에서 열의 첫번째 값이 가장 큰 원소를 찾고,
+    # 그 값의 1번째 값 리턴
+    # 예시 arr = [[1,2,3],[4,5,6],[7,8,9]]
+    # sth = max(arr, key=lambda x: x[0])[0]
+    # sth = 7
+    
+    sth = [i for i in range(10)]
+    # Comprehension 기법
+    # [0,1,2,3,4,5,6,7,8,9]의 배열 생성
+    # sth = [0 for i in range(10)]하면
+    # [0,0,0,0,0,0,0,0,0,0]의 배열 생성
+    
+    # BOJ에서 코드 입력받도록 하는 방법
+    # 1줄에 여러 숫자
+    sth = list(map(int, input().split(' ')))
+    
+    # Dictionary
+    # 모든 키 출력
+    print(dic.keys())
+    # 모든 값 출력
+    print(dic.values())
+    # 값이 있으면 리턴 없으면 None 리턴
+    dic.get(key)
+    
+    # 람다
+    # 먼저 기본함수
+    def add_sth(x):
+        return x+10
+    # 람다
+    add_sth = lambda x: x+10
+   	# 사용법
+    # 함수 호출과 동일하게
+    add_sth(1)
+    # 해주면 함수로 호출한 것과 동일한 결과가 나옴
+    
+    # 람다 표현식 자체 호출
+    (lambda x: x+10)(1)
+    # 위 식은 아래와 동일
+    add_sth = lambda x: x+10
+    add_sth(1)
+    
+    # 주의할 점
+    # 람다 표현식 안에서는 변수 생성 불가
+    # 변환값 부분은 변수 없이 식 한줄로 보통 표현하고 변수가 필요하면 그냥 def 사용
+    
+    # 다음 처럼은 가능
+    y = 10
+    (lambda x: x+y)(1)
+    # 위처럼 작성하면 11출력
+    
+    # Map + Lambda
+    def add_sth(x):
+        return x+10
+    # 다음식을 map에 적용해보고자함
+    list(map(add_sth, [1,2,3]))
+    # 결과값 [11, 12, 13]
+    # map(p1, p2)는 p1에 들어오는 함수에 맞게 p2를 커스터마이징 해서 변경시킴
+    
+    # Lambda 적용
+    list(map(lambda x: x+10, [1,2,3]))
+    # 결과값 [11, 12, 13]
+    # 위 방식대로 하면 3줄에 끝날게 1줄로 끝남
+    
