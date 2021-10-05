@@ -1,34 +1,3 @@
-## 🚗개념🚗
-
-| 주제             | 개념                                                         |
-| ---------------- | ------------------------------------------------------------ |
-| 숫자             | [피보나치 수열](https://github.com/soowampy/py-algorithm/blob/master/1%EC%9E%A5_%EC%88%AB%EC%9E%90/8_find_fibonacci_seq.py) |
-| 숫자             | [소수 찾기](https://github.com/soowampy/py-algorithm/blob/master/1%EC%9E%A5_%EC%88%AB%EC%9E%90/10_finding_prime.py) |
-| 내장 시퀀스 타입 | [문자열](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/2_str.py) |
-| 내장 시퀀스 타입 | [튜플](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/3_tuple.py) |
-| 내장 시퀀스 타입 | [리스트](https://github.com/soowampy/py-algorithm/blob/master/2%EC%9E%A5_%EB%82%B4%EC%9E%A5%EC%8B%9C%ED%80%80%EC%8A%A4%ED%83%80%EC%9E%85/4_list.py) |
-| 컬렉션 자료구조  | [set](https://github.com/soowampy/py-algorithm/blob/master/3%EC%9E%A5_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/1_set.py) |
-| 추상 데이터 타입 | [스택](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/1_stack.py) |
-| 추상 데이터 타입 | [큐](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/2_queue.py) |
-| 추상 데이터 타입 | [덱](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/3_dequeue.py) |
-| 추상 데이터 타입 | [우선순위 큐와 힙](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/4_priority_queue.py) |
-| 추상 데이터 타입 | [링크드리스트](https://github.com/soowampy/py-algorithm/blob/master/7%EC%9E%A5_%EC%B6%94%EC%83%81%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/5_linked_list.py) |
-| 점근적 분석      | [복잡도](https://github.com/soowampy/py-algorithm/blob/master/8%EC%9E%A5_%EC%A0%90%EA%B7%BC%EC%A0%81%EB%B6%84%EC%84%9D/1_complexity.py) |
-| 정렬             | [버블정렬,선택정렬](https://github.com/soowampy/py-algorithm/blob/master/9%EC%9E%A5_%EC%A0%95%EB%A0%AC/1_2ndorder.py) |
-| 그래프           | [그래프](https://github.com/suwampy/py-algorithm/blob/master/12%EC%9E%A5_%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B7%B8%EB%9E%98%ED%94%84.md) |
-| 이진트리         | [이진트리](https://github.com/suwampy/py-algorithm/blob/master/13%EC%9E%A5_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.md) |
-
-
-
-## 매일매일풀기~챌린지 
-
-| 날짜       | 주제      | 푼거                                                         |
-| ---------- | --------- | ------------------------------------------------------------ |
-| 2021-07-15 | DFS<br /> | [합이 같은 부분집합](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/4_%ED%95%A9%EC%9D%B4%EA%B0%99%EC%9D%80%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)<br />[바둑이승차](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/5_%EB%B0%94%EB%91%91%EC%9D%B4%EC%8A%B9%EC%B0%A8.py)<br /> |
-| 2021-07-20 | DFS       | [중복순열구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/6_%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br />[동전교환](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/7_%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98.py) |
-| 2021-07-21 | DFS       | [순열구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/8_%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br />[조합구하기](https://github.com/suwampy/py-algorithm/blob/master/%EC%9D%B8%ED%94%84%EB%9F%B0/6_%EC%99%84%ED%83%90/10_%EC%A1%B0%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
-
-
 
 ## 참고
 
