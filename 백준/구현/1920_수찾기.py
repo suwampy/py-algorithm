@@ -2,7 +2,7 @@ def 수찾기():
     n = int(input())
     numbers = set(map(int,input().split()))
 
-    m = int(input)
+    m = int(input())
     numbers_2 = list(map(int,input().split()))
 
     for i in numbers_2:
